@@ -20,3 +20,20 @@ org.gnome.Calculator
 org.gnome.baobab
 org.gnome.Logs
 com.github.tchx84.Flatseal
+
+# Fifteen additional preinstalled purpose-specific applications
+org.musescore.MuseScore
+io.lmms.LMMS
+org.hydrogenmusic.Hydrogen
+org.guitarix.Guitarix
+io.github.OpenToonz
+org.synfig.SynfigStudio
+org.jabref.jabref
+org.gnome.Evolution
+org.mozilla.Thunderbird
+org.gnome.gitg
+com.github.xournalpp.xournalpp
+org.stellarium.Stellarium
+org.gnome.Calendar
+org.gnome.Papers
+org.gnome.clocks
