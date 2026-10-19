@@ -25,4 +25,4 @@ The `podwave.svg` wallpaper is original. Podwave OS is an independent Ubuntu cus
 See [FEATURES.md](FEATURES.md) for three local tools included for podcast production.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
