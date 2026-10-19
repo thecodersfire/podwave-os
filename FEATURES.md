@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/podwave-os-workspace features/podwave-os-plan features/podwave-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for podcast production:
+
+1. **Ardour** — org.ardour.Ardour
+2. **Mixxx** — org.mixxx.Mixxx
+3. **Inkscape** — org.inkscape.Inkscape
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
